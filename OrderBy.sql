@@ -1,0 +1,7 @@
+-- USE WebsiteDb;
+-- DESC Users;
+
+-- TODO:ORDER BY EXAMPLES
+-- SELECT * FROM Users ORDER BY User_Id DESC;
+
+-- SELECT* FROM Users ORDER BY User_Id ASC;

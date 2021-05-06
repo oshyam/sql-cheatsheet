@@ -1,0 +1,12 @@
+-- SHOW DATABASES;
+-- USE photo_store;
+-- SHOW TABLES;
+-- TODO: CREATE A NEW TABLE AND ADD ITEMS 
+-- CREATE TABLE Customers (
+--     Customers_Id INT NOT NULL AUTO_INCREMENT,PRIMARY KEY(Customers_Id),
+--     name VARCHAR(32) NOT NULL,
+--     email VARCHAR(50) NOT NULL DEFAULT "No Email Provided",
+--     amount INT
+-- );
+
+-- DESC Customers;
